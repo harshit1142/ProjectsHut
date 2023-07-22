@@ -1,5 +1,8 @@
 <h1 align=left> ProjectsHut </h1>
 
+<h1 align=center > Merged A Project with ProjectsHut</h1>
+
+
 Welcome 👋
 
 <p>
